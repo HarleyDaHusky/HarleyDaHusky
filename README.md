@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=HarleyDaHusky&style=flat-square&label=Viewer)
 
 💫 **About Me**  
-- I'm a **Full Stack Web Developer & Software Engineer** with a background in **Computer Science and Engineering**, currently seeking opportunities in the software field.
+- I'm a **Full Stack Web Developer & Software Engineer** with a background in **Computer Science and Engineering**, currently seeking early-career opportunities in the software field.
 
 - I previously worked as a **Full Stack Developer Intern at Conectado Inc**, where I collaborated with a team of six to improve the **AI Backpack workflow and UI**, focusing on usability and overall product experience.
 
@@ -40,10 +40,10 @@
 - HTML5, CSS3, React, Next.js
 
 **Backend & APIs**  
-- Node.js, Firebase, JWT
+- Node.js, Firebase
 
 **Databases**  
-- MySQL, SQLite
+- MySQL, SQLite, Firestore
 
 **DevOps & Tooling**  
 - Docker, Git, GitHub
