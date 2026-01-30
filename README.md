@@ -1,14 +1,17 @@
 # Hey, I'm Jeffrey 👋
 
 📊 **You're currently the 👀 viewer**
-![Profile Views](https://komarev.com/ghpvc/?username=HarleyDaHusky&style=flat-square&label=Views)
+
+![Profile Views](https://komarev.com/ghpvc/?username=HarleyDaHusky&style=flat-square&label=Viewer)
 
 💫 **About Me**  
-I'm a **Full Stack Web Developer & Software Engineer** with a background in **Computer Science and Engineering**, currently seeking opportunities in the software field.
+- I'm a **Full Stack Web Developer & Software Engineer** with a background in **Computer Science and Engineering**, currently seeking opportunities in the software field.
 
-I previously worked as a **Full Stack Developer Intern at Conectado Inc**, where I collaborated with a team of six to improve the **AI Backpack workflow and UI**, focusing on usability and overall product experience.
+- I previously worked as a **Full Stack Developer Intern at Conectado Inc**, where I collaborated with a team of six to improve the **AI Backpack workflow and UI**, focusing on usability and overall product experience.
 
-I currently work as a **Backend Operator at ISE Labs** in San Jose, CA, supporting backend operations including **incoming and outgoing inspections, inventory management, and shipping & receiving for customer products**.
+- I currently work as a **Backend Operator at ISE Labs** in San Jose, CA, supporting backend operations including **incoming -and outgoing inspections, inventory management, and shipping & receiving for customer products**.
+
+--- 
 
 🔭 **Currently Working On**  
 - A **challenge-based Tic-Tac-Toe web app**, where each tile represents a mini-game (e.g., Rock Paper Scissors or a coin flip).  
