@@ -2,7 +2,7 @@
 
 📊 **You're currently the 👀 viewer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=HarleyDaHusky&style=flat-square&label=Viewer)
+![Profile Views](https://komarev.com/ghpvc/?username=HarleyDaHusky&style=flat-square&label=Viewer#)
 
 💫 **About Me**  
 - I'm a **Full Stack Web Developer & Software Engineer** with a background in **Computer Science and Engineering**, currently seeking early-career opportunities in the software field.
