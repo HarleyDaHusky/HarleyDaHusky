@@ -9,7 +9,7 @@
 
 - I previously worked as a **Full Stack Developer Intern at Conectado Inc**, where I collaborated with a team of six to improve the **AI Backpack workflow and UI**, focusing on usability and overall product experience.
 
-- I currently work as a **Backend Operator at ISE Labs** in San Jose, CA, supporting backend operations including **incoming -and outgoing inspections, inventory management, and shipping & receiving for customer products**.
+- I currently work as a **Backend Operator at ISE Labs** in San Jose, CA, supporting backend operations including **incoming and outgoing inspections, inventory management, and shipping & receiving for customer products**.
 
 --- 
 
