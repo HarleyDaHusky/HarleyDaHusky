@@ -14,8 +14,7 @@
 --- 
 
 🔭 **Currently Working On**  
-- A **challenge-based Tic-Tac-Toe web app**, where each tile represents a mini-game (e.g., Rock Paper Scissors or a coin flip).  
-  The winner of each challenge earns control of the tile instead of selecting it directly.
+- Personal portfolio website
 
 📚 **Currently Learning**  
 - **Responsive Web Design Certification** (freeCodeCamp)
